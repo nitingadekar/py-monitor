@@ -1,0 +1,16 @@
+INFO:root:sample text
+INFO:root:sample text
+WARNING:root:action required
+INFO:root:2019-11-25 00:13:48 CPU utilization is normal at 2.1% and havent crossed warning threshold 70%
+INFO:root:2019-11-25 00:45:40 CPU utilization is 1.0% and havent crossed warning threshold 70%
+INFO:root:2019-11-25 00:45:40 Memory utilization is 40.2% and haven't crossed warning threshold 80%
+INFO:root:2019-11-25 00:45:40 Root storage utilized 31.8% below threshold 90%
+INFO:root:2019-11-25 00:46:12 CPU utilization is 1.3% and havent crossed warning threshold 70%
+INFO:root:2019-11-25 00:46:12 Memory utilization is 40.2% and haven't crossed warning threshold 80%
+INFO:root:2019-11-25 00:46:12 Root storage utilized 31.8% below threshold 90%
+INFO:root:2019-11-25 00:46:52 CPU utilization is 1.3% and havent crossed warning threshold 70%
+INFO:root:2019-11-25 00:46:52 Memory utilization is 40.2% and haven't crossed warning threshold 80%
+INFO:root:2019-11-25 00:46:52 Root storage utilized 31.8% below threshold 90%
+INFO:root:2019-11-25 00:47:19 CPU utilization is 2.0% and havent crossed warning threshold 80%
+INFO:root:2019-11-25 00:47:19 Memory utilization is 40.2% and haven't crossed warning threshold 80%
+INFO:root:2019-11-25 00:47:19 Root storage utilized 31.8% below threshold 90%
