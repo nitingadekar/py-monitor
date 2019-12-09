@@ -1,4 +1,5 @@
 #!/usr/bin/python
+import socket
 import time 
 import net_speed
 import logging 
@@ -7,10 +8,24 @@ import cpumod
 import memmod
 import diskmod 
 import msg_webhook
+
+
+# get hostname and IP
+hostname = socket.gethostname()
+IPAddr = socket.gethostbyname(hostname)
+
+
+
+
+
 #get timestamp 
 t = time.localtime()
 current_time = time.strftime("%Y-%m-%d %H:%M:%S", t)
 print (current_time)
+
+#motd={  "Utilisation of  {} and ip {} on {}".format(hostname,IPAddr,current_time) }
+#print(motd)
+#print("Utilisation of  {}% and ip {}% on {}%".format(hostname,IPAddr,current_time))
 
 #initialize log file
 if not os.path.exists('./pymonit.log'):
@@ -33,7 +48,7 @@ if cpupercent >= cputhresh:
     logging.warn("{} CPU Utilisation is critical at {}% crossed  threshold {}%".format(current_time,cpupercent,cputhresh))
 else :
     print("CPU utilization is normal at {}% and havent crossed warning threshold {}%".format(cpupercent,cputhresh))
-    #msg_webhook.slack_msg("CPU utilization is normal at {}% and havent crossed warning threshold {}%".format(cpupercent,cputhresh))
+    #msg_webhook.slack_msg( "CPU utilization is normal at {}% and havent crossed warning threshold {}%".format(cpupercent,cputhresh))
     logging.info("{} CPU utilization is {}% and havent crossed warning threshold {}%".format(current_time,cpupercent,cputhresh))
 #cpumod.cpu()
 

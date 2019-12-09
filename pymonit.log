@@ -80,3 +80,71 @@ INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1):
 WARNING:root:2019-11-26 15:13:57Memory Utilisation is critical at 81.4% crossed threshold 80%
 INFO:root:2019-11-26 15:13:57 Root storage utilized 32.0% below threshold 90%
 INFO:root:2019-11-26 15:13:57 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-11-28 18:32:20 CPU utilization is 11.1% and havent crossed warning threshold 80%
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): hooks.slack.com
+INFO:root:2019-11-28 18:32:38 CPU utilization is 9.5% and havent crossed warning threshold 80%
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): hooks.slack.com
+INFO:root:2019-11-28 18:32:57 CPU utilization is 10.2% and havent crossed warning threshold 80%
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): hooks.slack.com
+INFO:root:2019-11-28 18:35:42 CPU utilization is 11.5% and havent crossed warning threshold 80%
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): hooks.slack.com
+WARNING:root:2019-11-28 18:35:42Memory Utilisation is critical at 83.4% crossed threshold 80%
+INFO:root:2019-11-28 18:35:42 Root storage utilized 32.1% below threshold 90%
+INFO:root:2019-11-28 18:35:42 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-11-28 18:36:22 CPU utilization is 12.1% and havent crossed warning threshold 80%
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): hooks.slack.com
+INFO:root:2019-11-28 18:37:04 CPU utilization is 17.5% and havent crossed warning threshold 80%
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): hooks.slack.com
+WARNING:root:2019-11-28 18:37:04Memory Utilisation is critical at 83.4% crossed threshold 80%
+INFO:root:2019-11-28 18:37:04 Root storage utilized 32.1% below threshold 90%
+INFO:root:2019-11-28 18:37:04 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-11-28 18:38:55 CPU utilization is 17.6% and havent crossed warning threshold 80%
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): hooks.slack.com
+WARNING:root:2019-11-28 18:38:55Memory Utilisation is critical at 85.0% crossed threshold 80%
+INFO:root:2019-11-28 18:38:55 Root storage utilized 32.1% below threshold 90%
+INFO:root:2019-11-28 18:38:55 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-11-28 18:39:20 CPU utilization is 15.3% and havent crossed warning threshold 80%
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): hooks.slack.com
+WARNING:root:2019-11-28 18:39:20Memory Utilisation is critical at 84.2% crossed threshold 80%
+INFO:root:2019-11-28 18:39:20 Root storage utilized 32.1% below threshold 90%
+INFO:root:2019-11-28 18:39:20 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-11-29 18:38:45 CPU utilization is 37.9% and havent crossed warning threshold 80%
+INFO:root:2019-11-29 18:38:45 Memory utilization is 42.1% and haven't crossed warning threshold 80%
+INFO:root:2019-11-29 18:38:45 Root storage utilized 33.7% below threshold 90%
+INFO:root:2019-11-29 18:38:45 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-12-04 18:26:41 CPU utilization is 64.2% and havent crossed warning threshold 80%
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): hooks.slack.com
+WARNING:root:2019-12-04 18:26:41Memory Utilisation is critical at 89.4% crossed threshold 80%
+INFO:root:2019-12-04 18:26:41 Root storage utilized 34.1% below threshold 90%
+INFO:root:2019-12-04 18:26:41 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-12-09 19:34:41 CPU utilization is 61.2% and havent crossed warning threshold 80%
+INFO:root:2019-12-09 19:34:41 Memory utilization is 72.0% and haven't crossed warning threshold 80%
+INFO:root:2019-12-09 19:34:41 Root storage utilized 37.7% below threshold 90%
+INFO:root:2019-12-09 19:34:41 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-12-09 19:39:59 CPU utilization is 52.3% and havent crossed warning threshold 80%
+INFO:root:2019-12-09 19:39:59 Memory utilization is 72.5% and haven't crossed warning threshold 80%
+INFO:root:2019-12-09 19:39:59 Root storage utilized 37.7% below threshold 90%
+INFO:root:2019-12-09 19:39:59 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-12-09 19:41:34 CPU utilization is 55.2% and havent crossed warning threshold 80%
+INFO:root:2019-12-09 19:41:34 Memory utilization is 72.5% and haven't crossed warning threshold 80%
+INFO:root:2019-12-09 19:41:34 Root storage utilized 37.7% below threshold 90%
+INFO:root:2019-12-09 19:41:34 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-12-09 19:42:18 CPU utilization is 57.8% and havent crossed warning threshold 80%
+INFO:root:2019-12-09 19:42:18 Memory utilization is 73.0% and haven't crossed warning threshold 80%
+INFO:root:2019-12-09 19:42:18 Root storage utilized 37.7% below threshold 90%
+INFO:root:2019-12-09 19:42:18 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-12-09 19:56:57 CPU utilization is 65.7% and havent crossed warning threshold 80%
+INFO:root:2019-12-09 19:56:57 Memory utilization is 71.6% and haven't crossed warning threshold 80%
+INFO:root:2019-12-09 19:56:57 Root storage utilized 38.0% below threshold 90%
+INFO:root:2019-12-09 19:56:57 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): hooks.slack.com
+INFO:root:2019-12-09 19:57:55 CPU utilization is 65.7% and havent crossed warning threshold 80%
+INFO:root:2019-12-09 19:57:55 Memory utilization is 73.1% and haven't crossed warning threshold 80%
+INFO:root:2019-12-09 19:57:55 Root storage utilized 38.0% below threshold 90%
+INFO:root:2019-12-09 19:57:55 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): hooks.slack.com
+INFO:root:2019-12-09 20:05:57 CPU utilization is 38.2% and havent crossed warning threshold 80%
+INFO:root:2019-12-09 20:05:57 Memory utilization is 73.5% and haven't crossed warning threshold 80%
+INFO:root:2019-12-09 20:05:57 Root storage utilized 38.0% below threshold 90%
+INFO:root:2019-12-09 20:05:57 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): hooks.slack.com
