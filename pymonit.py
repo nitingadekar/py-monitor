@@ -4,10 +4,10 @@ import time
 import net_speed
 import logging 
 import os  
-import cpumod
-import memmod
-import diskmod 
-import msg_webhook
+from module import cpumod
+from module import memmod
+from module import diskmod 
+from module import msg_webhook
 
 
 # get hostname and IP
