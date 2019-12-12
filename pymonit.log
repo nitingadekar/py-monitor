@@ -165,3 +165,11 @@ INFO:root:2019-12-12 17:10:07 CPU utilization is 71.0% and havent crossed warnin
 INFO:root:2019-12-12 17:10:07 Memory utilization is 78.8% and haven't crossed warning threshold 80%
 INFO:root:2019-12-12 17:10:07 Root storage utilized 38.5% below threshold 90%
 INFO:root:2019-12-12 17:10:07 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-12-12 19:35:47 CPU utilization is 64.0% and havent crossed warning threshold 80%
+INFO:root:2019-12-12 19:35:47 Memory utilization is 79.5% and haven't crossed warning threshold 80%
+INFO:root:2019-12-12 19:35:47 Root storage utilized 38.5% below threshold 90%
+INFO:root:2019-12-12 19:35:47 Net speed is 10Mbps not yet crossed threshold of 2Mbps
+INFO:root:2019-12-12 19:37:41 CPU utilization is 55.9% and havent crossed warning threshold 80%
+INFO:root:2019-12-12 19:37:41 Memory utilization is 78.6% and haven't crossed warning threshold 80%
+INFO:root:2019-12-12 19:37:41 Root storage utilized 38.5% below threshold 90%
+INFO:root:2019-12-12 19:37:41 Net speed is 10Mbps not yet crossed threshold of 2Mbps

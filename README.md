@@ -14,7 +14,8 @@ For continuously monitoring the server add below cronjob for your frequency.
 `*/5 * * * * /usr/bin/python3 /path/to/installed/pymonitor/pymonit.py`
 A log file will be generated at same location with `pymonit.log` which will have logging of every execution.
 
-
+### Sample Slack notification on critical alert. 
+![image](https://user-images.githubusercontent.com/28653452/70719439-021b8500-1d18-11ea-8488-a98d14b5c009.png)
 
 
 
