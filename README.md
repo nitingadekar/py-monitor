@@ -13,4 +13,20 @@ Run `python3 pymonit.py` to get the CPU, Memory, Root drive usage and Ethernet s
 For continuously monitoring the server add below cronjob for your frequency.
 `*/5 * * * * /usr/bin/python3 /path/to/installed/pymonitor/pymonit.py`
 A log file will be generated at same location with `pymonit.log` which will have logging of every execution.
+
+
+
+
+
+
+## Coming up....
+1. Datapoints with usage %
+2. More verbose Slack Notifications
+3. Hostname and IP of source
+4. Resolutions in alerts
+5. Resolved state notification after alert is resolved. 
+6. Parallely send metrics to Cloudwatch for visualisation. 
+7. Prometheus, Grafana integration
+
+
  
